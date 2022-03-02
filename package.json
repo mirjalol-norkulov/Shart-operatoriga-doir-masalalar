@@ -10,7 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "nodemon": "^2.0.14",
     "require-glob": "^4.0.0"
   }
 }
